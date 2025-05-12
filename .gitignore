@@ -1,0 +1,5 @@
+**/terraform/variables.tf
+**/terraform/terraform.tfstate
+**/terraform/terraform.tfstate.backup
+**/terraform/meta.txt
+**/terraform/.terraform.lock.hcl
